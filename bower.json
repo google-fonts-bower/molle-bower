@@ -1,0 +1,17 @@
+{
+    "name": "molle-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Elena Albertoni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/molle-bower.git"
+    },
+    "description": "Molle font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
